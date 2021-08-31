@@ -1,5 +1,4 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {Button} from "react-bootstrap";
 import Navibar from "./Components/Navibar";
 import {Switch, Route, BrowserRouter as Router} from "react-router-dom";
 import Home from './pages/Home';
